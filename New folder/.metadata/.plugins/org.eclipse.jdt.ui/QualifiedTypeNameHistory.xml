@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.ustglobal.contactfile.jdbcassessment1.dao.MobileDao"/>
+<fullyQualifiedTypeName name="com.ustglobal.contactfile.jdbcassessment1.util.MobileManager"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.ustglobal.contactfile.jdbcassessment1.dao.MobileDaoImpl"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.ustglobal.contactfile.jdbcassessment1.dto.MobileBean"/>
+</qualifiedTypeNameHistroy>
